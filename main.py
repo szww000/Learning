@@ -13,3 +13,6 @@
 import numpy as np
 
 
+str = 'This is a test'
+# 实现list反序
+print(str[::-1])
